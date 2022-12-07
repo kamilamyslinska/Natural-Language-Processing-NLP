@@ -14,5 +14,5 @@ For example, what i do:
 
 2. Word cloud
 
-3. Clastering users
+3. Clustering users
 
